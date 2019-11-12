@@ -1,0 +1,12 @@
+200 OK
+Date: Sat, 16 Mar 2019 18:54:05 GMT
+Content-Type: text/html;charset=utf-8
+X-Zm-Trackingid: WEB_01fe36bdda57e9dd738b5c3664e39951
+Set-Cookie: _zm_mtk_guid=f9b8b4b71b0b4693a6239f215c792b31; Domain=.zoom.us; Expires=Thu, 03-Apr-2087 22:08:12 GMT; Path=/; Secure cred=29EEE8158639057F2D66EE3A7B1AE8FC; Path=/; Secure; HttpOnly _zm_page_auth=aw1_c_vYJk2AMZSxKIIWLrlYa9PA; Domain=.zoom.us; Path=/; Secure; HttpOnly _zm_ssid=aw1_c_7yrYc98HQ7elHU5VApPoAA; Domain=.zoom.us; Path=/; Secure; HttpOnly _zm_currency=USD; Domain=.zoom.us; Expires=Sun, 17-Mar-2019 18:54:05 GMT; Path=/; Secure
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Server: ZOOM
+X-Xss-Protection: 1; mode=block
+P3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Strict-Transport-Security: max-age=31536000
+Content-Language: en-US

@@ -1,0 +1,38 @@
+
+  <nav class='nav navbar-expand navbar-light bg-light'>
+  <a class='navbar-brand'>{{pageTitle}}</a>
+    <div class="dropdown">
+      <button class="dropbtn" [routerLink]="['/domains']">Scans</button>
+        <div class="scan-dropdown">
+          <li *ngFor="let domain of domains">
+            <a (click)="onEventClick(domain)">{{domain}}</a>
+          </li>
+        </div>
+    </div> 
+  <div class="dropdown">  
+    <button class="dropbtn" (click)="onRunScan()">
+      <div *ngIf="!isLoaded" id="loading-container">
+        <div id="loading-inner">
+          <i class="fa fa-spinner fa-spin"></i>Loading
+        </div>
+      </div>
+      <div *ngIf="isLoaded">Run Scan</div>
+    </button>   
+  </div>
+  <div>
+  <form ng-controller="formCtrl"> 
+    <div class="dropdown">    
+      <button class="searchbtn" (click)="onNameAdd(name.value)">Add Domain</button>
+      <div class="dropdown-content">
+          <input type="text" #name name="name" placeholder="Enter Domain Name" />
+          <a *ngIf='pendingScans && pendingScans.length'>Pending Scans: </a>
+          <li *ngFor="let domain of pendingScans">
+            <div>
+            <a>{{domain}}<span class="close" (click)="onDeletePendingDomain(domain)">x</span></a>
+            </div>
+          </li>
+        </div>
+    </div>
+  </form>
+  </div>
+  </nav>

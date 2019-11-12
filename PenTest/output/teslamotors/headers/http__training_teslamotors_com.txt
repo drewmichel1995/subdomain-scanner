@@ -1,0 +1,17 @@
+200 OK
+Date: Sat, 16 Mar 2019 19:03:22 GMT
+Server: nginx + Phusion Passenger
+Set-Cookie: _csrf_token=7oE7cXjFn0anuBrYKa8gbUQ8eyUct8fGVNkaqX%2BW8d7a6Q01U6bKLcjheOtw9UUiMVVMaWzEv40Dv0LMMaOcvw%3D%3D; path=/; secure
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Powered-By: Phusion Passenger Enterprise
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Etag: W/"b75074d0db84509ec2e82758affe0f7e"
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: f72c5e12-9a34-44c7-974d-e87e3629778c
+Cache-Control: max-age=0, private, must-revalidate
+X-Runtime: 0.051262
+X-Xss-Protection: 1; mode=block
+Content-Length: 32980
