@@ -1,5 +1,9 @@
 # Subdomain Scanner
-## Full Stack application utilizing OWASP developed utility AMASS
+### Full Stack application utilizing OWASP developed utility AMASS
+
+### Prerequisites: 
+  * Docker
+  * Docker Compose
 
 ### Stack
   * NodeJS
