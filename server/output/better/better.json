@@ -1,0 +1,962 @@
+[
+    {
+        "domain": "better.com", 
+        "name": "www.better.com", 
+        "ip": "13.226.101.122", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.better.com", 
+        "ip": "13.226.101.26", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.better.com", 
+        "ip": "13.226.101.3", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.better.com", 
+        "ip": "13.226.101.55", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "blog.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "blog.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "blog.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "blog.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.leads.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.leads.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.leads.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.leads.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "better.com", 
+        "ip": "99.86.230.11", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "99.86.224.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "better.com", 
+        "ip": "99.86.230.20", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "99.86.224.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "better.com", 
+        "ip": "99.86.230.23", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "99.86.224.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "better.com", 
+        "ip": "99.86.230.65", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "99.86.224.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "media.better.com", 
+        "ip": "13.226.101.115", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "media.better.com", 
+        "ip": "13.226.101.42", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "media.better.com", 
+        "ip": "13.226.101.50", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "media.better.com", 
+        "ip": "13.226.101.68", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "images.better.com", 
+        "ip": "13.225.78.112", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "images.better.com", 
+        "ip": "13.225.78.127", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "images.better.com", 
+        "ip": "13.225.78.65", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "images.better.com", 
+        "ip": "13.225.78.97", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.blog.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.blog.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.blog.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.blog.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.ruleweaver.better.com", 
+        "ip": "13.226.42.29", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.ruleweaver.better.com", 
+        "ip": "13.226.42.80", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.ruleweaver.better.com", 
+        "ip": "13.226.42.89", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.ruleweaver.better.com", 
+        "ip": "13.226.42.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "bot.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "bot.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "bot.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "bot.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "get.better.com", 
+        "ip": "13.225.78.112", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "get.better.com", 
+        "ip": "13.225.78.127", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "get.better.com", 
+        "ip": "13.225.78.65", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "get.better.com", 
+        "ip": "13.225.78.97", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.225.76.0/22", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.media.better.com", 
+        "ip": "13.226.101.122", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.media.better.com", 
+        "ip": "13.226.101.26", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.media.better.com", 
+        "ip": "13.226.101.3", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.media.better.com", 
+        "ip": "13.226.101.55", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "beta.better.com", 
+        "ip": "13.226.101.122", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "beta.better.com", 
+        "ip": "13.226.101.26", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "beta.better.com", 
+        "ip": "13.226.101.3", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "beta.better.com", 
+        "ip": "13.226.101.55", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.scoop.better.com", 
+        "ip": "13.226.101.122", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.scoop.better.com", 
+        "ip": "13.226.101.26", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.scoop.better.com", 
+        "ip": "13.226.101.3", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.scoop.better.com", 
+        "ip": "13.226.101.55", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "leads.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "leads.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "leads.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "leads.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.int.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.int.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.int.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.int.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.beta.better.com", 
+        "ip": "13.249.122.119", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.beta.better.com", 
+        "ip": "13.249.122.129", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.beta.better.com", 
+        "ip": "13.249.122.23", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.beta.better.com", 
+        "ip": "13.249.122.7", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "npm.better.com", 
+        "ip": "13.249.122.119", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "npm.better.com", 
+        "ip": "13.249.122.129", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "npm.better.com", 
+        "ip": "13.249.122.23", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "npm.better.com", 
+        "ip": "13.249.122.7", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.bot.better.com", 
+        "ip": "13.224.196.49", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.224.192.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.bot.better.com", 
+        "ip": "13.224.196.57", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.224.192.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.bot.better.com", 
+        "ip": "13.224.196.90", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.224.192.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.bot.better.com", 
+        "ip": "13.224.196.97", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.224.192.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "int.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "int.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "int.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "int.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "scoop.better.com", 
+        "ip": "13.32.83.16", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.32.80.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "scoop.better.com", 
+        "ip": "13.32.83.18", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.32.80.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "scoop.better.com", 
+        "ip": "13.32.83.20", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.32.80.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "scoop.better.com", 
+        "ip": "13.32.83.29", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.32.80.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.npm.better.com", 
+        "ip": "13.249.122.119", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.npm.better.com", 
+        "ip": "13.249.122.129", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.npm.better.com", 
+        "ip": "13.249.122.23", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.npm.better.com", 
+        "ip": "13.249.122.7", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.120.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.images.better.com", 
+        "ip": "13.226.101.122", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.images.better.com", 
+        "ip": "13.226.101.26", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.images.better.com", 
+        "ip": "13.226.101.3", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.images.better.com", 
+        "ip": "13.226.101.55", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.96.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "ruleweaver.better.com", 
+        "ip": "13.249.109.117", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "ruleweaver.better.com", 
+        "ip": "13.249.109.63", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "ruleweaver.better.com", 
+        "ip": "13.249.109.81", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "ruleweaver.better.com", 
+        "ip": "13.249.109.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.249.104.0/21", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.get.better.com", 
+        "ip": "13.226.42.29", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.get.better.com", 
+        "ip": "13.226.42.80", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.get.better.com", 
+        "ip": "13.226.42.89", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }, 
+    {
+        "domain": "better.com", 
+        "name": "www.get.better.com", 
+        "ip": "13.226.42.98", 
+        "source": "Crtsh", 
+        "tag": "cert", 
+        "cidr": "13.226.42.0/23", 
+        "asn": "16509", 
+        "desc": "Amazon Technologies Inc. (AT-88-Z)"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "domain": "square.com", 
+        "name": "square.com", 
+        "ip": "74.122.190.80", 
+        "source": "Forward DNS", 
+        "tag": "dns", 
+        "cidr": "74.122.190.0/24", 
+        "asn": "15211", 
+        "desc": "SQUARE - Square, Inc., US"
+    }, 
+    {
+        "domain": "square.com", 
+        "name": "cash.square.com", 
+        "ip": "74.122.190.80", 
+        "source": "CertSpotter", 
+        "tag": "cert", 
+        "cidr": "74.122.190.0/24", 
+        "asn": "15211", 
+        "desc": "SQUARE - Square, Inc., US"
+    }, 
+    {
+        "domain": "square.com", 
+        "name": "www.square.com", 
+        "ip": "74.122.190.80", 
+        "source": "CertSpotter", 
+        "tag": "cert", 
+        "cidr": "74.122.190.0/24", 
+        "asn": "15211", 
+        "desc": "SQUARE - Square, Inc., US"
+    }, 
+    {
+        "domain": "square.com", 
+        "name": "mtaout-088-ewr.square.com", 
+        "ip": "216.146.33.88", 
+        "source": "ThreatCrowd", 
+        "tag": "scrape", 
+        "cidr": "216.146.33.0/24", 
+        "asn": "33517", 
+        "desc": "DYNDNS - Oracle Corporation, US"
+    }, 
+    {
+        "domain": "square.com", 
+        "name": "mtaout-089-ewr.square.com", 
+        "ip": "216.146.33.89", 
+        "source": "HackerTarget", 
+        "tag": "api", 
+        "cidr": "216.146.33.0/24", 
+        "asn": "33517", 
+        "desc": "DYNDNS - Oracle Corporation, US"
+    }, 
+    {
+        "domain": "square.com", 
+        "name": "mtaout-090-ewr.square.com", 
+        "ip": "216.146.33.90", 
+        "source": "HackerTarget", 
+        "tag": "api", 
+        "cidr": "216.146.33.0/24", 
+        "asn": "33517", 
+        "desc": "DYNDNS - Oracle Corporation, US"
+    }
+]

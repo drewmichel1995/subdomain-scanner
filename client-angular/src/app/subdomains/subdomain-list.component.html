@@ -1,0 +1,48 @@
+<div class='card'>
+        <div class='card-header'>
+          {{pageTitle}}
+        </div>
+        <div class='card-body'>
+          <div class='row'>
+              <div class='col-md-3'>Filter by IP:</div>
+              <div class='col-md-3'><input type='text'
+                                        [(ngModel)]='listFilter'/>
+                </div>
+            </div>
+          <div class='table-responsive'>
+            <table class='table' 
+                    *ngIf='subdomains && subdomains.length'>
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>IP</th>
+                  <th>Source</th>
+                  <th>Tag</th>
+                  <th>CIDR</th>
+                  <th>ASN</th>
+                  <th>DESC</th>
+                </tr>
+              </thead>
+              <tbody>
+                  <tr *ngFor='let subdomain of filteredSubdomains'>
+                      <td>
+                          <a [routerLink]="['/subdomains', subdomain.name]">
+                          {{subdomain.name}}
+                        </a>
+                      </td>
+                      <td>{{subdomain.ip}}</td>
+                      <td>{{subdomain.source}}</td>
+                      <td>{{subdomain.tag}}</td>
+                      <td>{{subdomain.cidr}}</td>
+                      <td>{{subdomain.asn}}</td>
+                      <td>{{subdomain.desc | convertToSpaces: ','}}</td>
+                  </tr>
+              </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div *ngIf='errorMessage'
+     class='alert alert-danger'>
+     Error: {{ errorMessage }}
+</div>
